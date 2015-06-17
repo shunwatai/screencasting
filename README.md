@@ -1,6 +1,6 @@
 # screencasting
-This bash script is created by metalx1000 on youtube, I just make some    
-changes to fit in my system environment.                             
+This bash script is created by metalx1000 on youtube, I just made some    
+changes to fit it in my system environment.                             
 link: https://www.youtube.com/watch?v=FhWXVA7OI6E    
                 
 how to use: 
